@@ -1,0 +1,1 @@
+from strate.strategy.sma_cross import SmaCross
